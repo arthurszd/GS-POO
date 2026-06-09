@@ -246,18 +246,6 @@ java SistemaMonitoramento
 
 ---
 
-## ✅ Critérios de Avaliação Atendidos
-
-| Critério | Pontos | Status |
-|---|---|---|
-| Classe Abstrata (`ComponenteEspacial`, `SistemaPropulsao`, método abstrato, `extends`) | 2.0 | ✅ |
-| Interface (`Sensor`, métodos definidos, implementada em 3 classes, `implements`) | 2.0 | ✅ |
-| Encapsulamento (`DadosMissao`, atributos privados, getters/setters com validação, senha) | 2.0 | ✅ |
-| Herança (`SistemaPropulsao`, 2 tipos de propulsão, `super()`, atributos específicos) | 2.0 | ✅ |
-| Sistema de Alertas (verificação automática, 3 níveis, menu interativo) | 2.0 | ✅ |
-| **Total** | **10.0** | ✅ |
-
----
 
 ## 👨‍💻 Tecnologias
 
